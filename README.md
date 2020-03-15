@@ -35,12 +35,14 @@ la considero la mejor compañia que ofrece este tipo de servicio
 ![Método UX](P1\UX-DIU-Toolkit\indexP.html) 1.b Persona
 -----
 Cree estas persona porque me parecieron dos modelos diferentes que permiten valorar las funcionales de una pagina desde dos perspectivas unicas
-![alt text](img\JoeSmith.png)Joe Smith
-![alt text](img\StuDiante.png)Stu Diante
+![Joe Smith](img\JoeSmith.png)
+![Stu Diante](img\StuDiante.png)
 
 ![Método UX](P1\UX-DIU-Toolkit\indexJ.html) 1.c User Journey Map
 ----
 Elegi estas dos experiencias porque me parecieron que ambas al principio podian parecer comunes pero tenian un giro unico que diferenciaba las necesidades de laa personas
+![Joe Smith](img\Journey1.png)
+![Stu Diante](img\Journey2.png)
 
 
 

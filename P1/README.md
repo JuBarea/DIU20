@@ -1,9 +1,5 @@
 ## DIU - Practica1, entregables
 
+Juan Barea Gallego
 
-
-
-- Desk research: Análisis Competencia 
-- 2 Personas 
-- 2 User Journey Map  ( 1 por persona)
-- Revisión de Usabilidad 
+Imagenes de ambas personas y sus "journeys" se encuentran en la carpeta img
