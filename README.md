@@ -3,15 +3,14 @@ Prácticas Diseño Interfaces de Usuario 2019-20 (Economía Colaborativa)
 
 Grupo: DIU1_01AABB.  Curso: 2019/20 
 
-Proyecto: 
+Proyecto: DIU 2020
 
 Descripción: 
 
-Logotipo: 
 
 Miembros
- * :bust_in_silhouette:   AA     :octocat:     
- * :bust_in_silhouette:  BB     :octocat:
+ * Juan Barea Gallego
+ 
 
 ----- 
 
@@ -30,26 +29,29 @@ Qué es economia colaborativa: Martínez-Polo, J. (2019). **El fenómeno del con
 ![Método UX](img/Competitive.png) 1.a Competitive Analysis
 -----
 
->>> Describe brevemente características de las aplicaciones que tienes asignadas, y por qué has elegido una de ellas (150-300 caracteres) 
+La pagina seleccionada es Freetour.com una compañia que ofrece diferentes tour por ciudades por todo el mundo. La he elegido porque tengo experiencia con ella y 
+la considero la mejor compañia que ofrece este tipo de servicio
 
-![Método UX](img/Persona.png) 1.b Persona
+![Método UX](P1\UX-DIU-Toolkit\indexP.html) 1.b Persona
 -----
+Cree estas persona porque me parecieron dos modelos diferentes que permiten valorar las funcionales de una pagina desde dos perspectivas unicas
+![alt text](img\JoeSmith.png)Joe Smith
+![alt text](img\StuDiante.png)Stu Diante
 
->>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha  (80-150 caracteres)
-
-![Método UX](img/JourneyMap.png) 1.c User Journey Map
+![Método UX](P1\UX-DIU-Toolkit\indexJ.html) 1.c User Journey Map
 ----
+Elegi estas dos experiencias porque me parecieron que ambas al principio podian parecer comunes pero tenian un giro unico que diferenciaba las necesidades de laa personas
 
 
->>> Comenta brevemente porqué has escogido estas dos experiencias de usuario (y si consideras que son habituales) (80-150 caracteres) 
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
 >>>  Revisión de usabilidad: (toma los siguientes documentos de referncia y verifica puntos de verificación de  usabilidad
 >>>> SE deben incluir claramente los siguientes elementos
->>> - Enlace al documento:  (sube a github el xls/pdf) 
->>> - Valoración final (numérica): 
->>> - Comentario sobre la valoración:  (60-120 caracteres)
+[](P1\Usability-review-template-2.pdf)PDF
+[](P1\Usability-review-template.xls)XLS
+Valoracion final: 78
+En conclusion me parece una muy buena pagina aunque podria mejorarse en varios aspectos, sobretodo a la hora de hacer reservas para grupos 
 
 
 ## Paso 2. UX Design  
